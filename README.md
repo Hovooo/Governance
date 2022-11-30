@@ -1,3 +1,3 @@
 # Governance
 
-This project demonstrates a basic Governance Smart Contract. 
+This project demonstrates a basic Governance inheriting from OpenZeppelin. 
